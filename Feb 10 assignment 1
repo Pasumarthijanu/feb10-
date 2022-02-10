@@ -1,0 +1,18 @@
+Sno=int(input('Enter student no:')
+Sname=input('Enter student name:')
+Sgroup=input('Enter student group:')
+S1=int(input('maths marks:'))
+S2=int(input('physics marks:'))
+S3=int(input('computer marks:'))
+If s1>=35,s2>=35,s3>=35
+  Print('pass')
+Else:
+  Print('fail')
+Output
+Enter student no:2
+Enter student name:janu
+Enter student group:mpcs
+Maths marks: 34
+Physics marks:55
+Computer marks:77
+Fail  pass  Pass
